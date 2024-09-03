@@ -27,6 +27,8 @@ Write a class called `BankAccount` that represents a simple bank account. The cl
 
 ## Exercise
 
+**Note:** The tests below are expecting you to use `puts` rather than `pp` when you print out strings. So be sure to use `puts` in your code when printing those strings.
+
 ```ruby
 # write your program below
 
