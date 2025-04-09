@@ -1,6 +1,11 @@
 # Ruby Gym: Bank Account
 Write a class called `BankAccount` that represents a simple bank account. The class should allow users to deposit, withdraw, and check their balance.
 
+<div class="alert alert-info">
+
+Getting stuck with only partial credit on the tests? Remind yourself of how to write _flexible_ code that will pass for all tests at the same time with [this video](https://share.descript.com/view/x6XDEJNYGlp).
+</div>
+
 ## Objectives
 
 ### 1. Create the `BankAccount` Class:
