@@ -2,7 +2,7 @@
 
 Write a class called `BankAccount` that represents a simple bank account. The class should allow users to deposit, withdraw, and check their balance.
 
-Like the Todo List, this is practice for [Bridge to Rails: Defining and using Classes](/lessons/573-classes-in-ruby): an `initialize` method, an instance variable, and instance methods that read and change it.
+Like the Todo List, this is practice for [Bridge to Rails: Defining and Using Classes](/lessons/573-classes-in-ruby): an `initialize` method, an instance variable, and instance methods that read and change it.
 
 ## Objectives
 
